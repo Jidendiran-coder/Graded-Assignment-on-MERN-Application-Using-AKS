@@ -12,7 +12,7 @@ The application is divided into:
 
 ## 📂 Repository
 
-[GitHub – SampleMERNwithMicroservices](https://github.com/UnpredictablePrashant/SampleMERNwithMicroservices)
+[GitHub – SampleMERNwithMicroservices](https://github.com/Jidendiran-coder/Graded-Assignment-on-MERN-Application-Using-AKS)
 
 ---
 
