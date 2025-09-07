@@ -73,11 +73,15 @@ docker-compose up --build
 ✅ `helloService` → `http://localhost:3001`
 ✅ `profileService` → `http://localhost:3002`
 
-📸 *\[Insert Docker local testing screenshots here]*
+📸 *\[Docker Browser helloservice output screenshots here]*
 
 <img width="382" height="187" alt="Docker Browser helloservice output" src="https://github.com/user-attachments/assets/19ab604a-51a5-4ad2-b6d1-090ff49694fb" />
 
+📸 *\[Docker Browser Profileservice output screenshots here]*
+
 <img width="481" height="216" alt="Dcoker Browser Profileservice output" src="https://github.com/user-attachments/assets/217ae68f-1863-440d-806f-f8e01e54be8f" />
+
+📸 *\[Docker Browser tripservice output screenshots here]*
 
 <img width="557" height="213" alt="Docker Browser tripservice output" src="https://github.com/user-attachments/assets/d0bec490-9872-41ce-8267-ba08e6e82057" />
 
